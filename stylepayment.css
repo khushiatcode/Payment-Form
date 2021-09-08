@@ -1,0 +1,48 @@
+.heading
+{
+  color: #FFF4F4;   
+}
+
+
+.contact-info, .payment-info
+{
+    max-width: 450px;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+.all
+{
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif; 
+}
+
+.contact-info fieldset, .payment-info fieldset
+{
+	border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	margin: 0px 0px 10px 0px;
+	border: 1px solid #FFD2D2;
+	padding: 20px;
+	background: #FFF4F4;
+	box-shadow: inset 0px 0px 15px #FFE5E5;
+	-moz-box-shadow: inset 0px 0px 15px #FFE5E5;
+	-webkit-box-shadow: inset 0px 0px 15px #FFE5E5;
+}
+
+.payment-info input[type=submit],
+.payment-info input[type=button]{
+	background: #1b5d5f;
+	border: 1px solid #145b6d;
+	padding: 5px 15px 5px 15px;
+	color: #FFCBE2;
+	box-shadow: inset -1px -1px 3px #135f72;
+	-moz-box-shadow: inset -1px -1px 3px #135869;
+	-webkit-box-shadow: inset -1px -1px 3px #10596b;
+	border-radius: 3px;
+	border-radius: 3px;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;	
+	font-weight: bold;
+}
+
+
